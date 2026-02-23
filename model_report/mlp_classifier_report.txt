@@ -1,0 +1,13 @@
+MLP Classifier Accuracy: 0.4570
+
+              precision    recall  f1-score   support
+
+       Heart       0.44      0.40      0.42       200
+      Oblong       0.57      0.67      0.61       200
+        Oval       0.36      0.36      0.36       200
+       Round       0.41      0.38      0.40       200
+      Square       0.49      0.47      0.48       200
+
+    accuracy                           0.46      1000
+   macro avg       0.45      0.46      0.45      1000
+weighted avg       0.45      0.46      0.45      1000

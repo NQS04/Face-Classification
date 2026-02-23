@@ -1,0 +1,1 @@
+CNN (MobileNetV2) Accuracy: 0.4160

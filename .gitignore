@@ -1,0 +1,7 @@
+venv/
+processed_data/
+__pycache__/
+*.csv
+FaceShape Dataset/
+desktop.ini
+*.ini
